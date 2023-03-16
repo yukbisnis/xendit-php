@@ -1,6 +1,6 @@
 <?php
 
-namespace Hasandotprayoga\Xendit;
+namespace Yubi\Xendit;
 
 use Illuminate\Support\ServiceProvider as IlluminateServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Hasandotprayoga\Xendit\Traits;
+namespace Yubi\Xendit\Traits;
 
 trait Get
 {

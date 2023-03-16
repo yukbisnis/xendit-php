@@ -1,9 +1,9 @@
 <?php
 
-namespace Hasandotprayoga\Xendit;
+namespace Yubi\Xendit;
 
 use GuzzleHttp\Client;
-use Hasandotprayoga\Xendit\Exceptions\ApiException;
+use Yubi\Xendit\Exceptions\ApiException;
 use InvalidArgumentException;
 
 class Xendit
@@ -59,7 +59,7 @@ class Xendit
             throw new ApiException(
                 $rbody['message'],
                 strval($rcode),
-                $rbody['error_code'],
+                $rbody['error_code']
             );
         }
     }

@@ -1,8 +1,8 @@
 <?php
 
-namespace Hasandotprayoga\Xendit;
+namespace Yubi\Xendit;
 
-use Hasandotprayoga\Xendit\Traits\Create;
+use Yubi\Xendit\Traits\Create;
 
 class QrCodes extends Xendit
 {

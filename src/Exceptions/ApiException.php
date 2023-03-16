@@ -1,6 +1,6 @@
 <?php
 
-namespace Hasandotprayoga\Xendit\Exceptions;
+namespace Yubi\Xendit\Exceptions;
 
 class ApiException extends \Exception
 {

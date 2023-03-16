@@ -1,9 +1,9 @@
 <?php
 
-namespace Hasandotprayoga\Xendit;
+namespace Yubi\Xendit;
 
-use Hasandotprayoga\Xendit\Traits\Create;
-use Hasandotprayoga\Xendit\Traits\Get;
+use Yubi\Xendit\Traits\Create;
+use Yubi\Xendit\Traits\Get;
 
 class Invoice extends Xendit
 {
